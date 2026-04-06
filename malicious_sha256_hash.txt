@@ -1,3 +1,7 @@
+# Updated weekly - Malicious Hashes Sha256
+# Format: One hash per line
+# Confidence: 95%
+
 fffddc43da73547f01603636d0fbabfd3691be159811c0758d433c338ed659c8
 ff707e735648511007fe60b4ac3c579b5acd0d228de56ec9de1e81f55c08fce0
 fea62aa379253fc60ad0a248c358d2569f56e5eec417102f41a45becd876c58d
